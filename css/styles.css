@@ -3,10 +3,22 @@ h1 {
   color: #2a1b3d;
 }
 
+body {
+  text-align: center;
+  font-family: monospace;
+  font-size: 16px;
+}
+
 h2.intro {
   color: #44318d;
 }
 
+.special {
+  font-style: italic;
+}
+
+
+/*
 h3.intro {
   color: #e98074;
 }
@@ -17,13 +29,18 @@ img.intro {
   margin: 0 auto;
 }
 
+*/
 
-p.intro {
+p.share {
   color: #a4b3b6;
-  font-size: 20px;
+  font-size: 24px;
+  font-family: sans-serif;
 }
 
-body {
-  text-align: center;
-  font-family: monospace;
+div.important {
+  color: red;
+}
+
+div.unimportant {
+  color: green;
 }
