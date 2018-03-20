@@ -1,37 +1,29 @@
+
 h1 {
-  color: #894f1b;
-  text-align: center;
+  color: #2a1b3d;
 }
 
-h2 {
-  font-style: italic;
-  color: #c87374;
-  text-align: left;
+h2.intro {
+  color: #44318d;
 }
 
-p {
-  color: #444444;
-  text-align: left;
-  width: 75%;
+h3.intro {
+  color: #e98074;
 }
 
-body {
-  background-color: #fff;
-  font-family: verdana;
-  font-size: 20px;
-}
 
 img.intro {
   display: block;
-  margin: 25 auto;
+  margin: 0 auto;
 }
 
 
 p.intro {
-  color: #894f1b;
-  font-size: 16px;
+  color: #a4b3b6;
+  font-size: 20px;
 }
 
-h2.intro {
-  color: red;
+body {
+  text-align: center;
+  font-family: monospace;
 }
