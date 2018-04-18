@@ -44,3 +44,10 @@ div.important {
 div.unimportant {
   color: green;
 }
+
+input {
+    border: 1px solid black;
+}
+input.highlight {
+    border: 1px solid red;
+}
